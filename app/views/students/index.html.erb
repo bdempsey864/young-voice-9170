@@ -1,5 +1,4 @@
 <h1>All Students</h1>
-<% require 'pry'; binding.pry %>
 <% @students.each do |student| %>
-  <p><%= student.name %></p>
+  <p><%= student.name %>: <%= student.professors.length %></p>
 <% end %>
