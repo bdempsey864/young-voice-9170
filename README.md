@@ -1,3 +1,6 @@
+# Reflections
+I felt pretty good about this IC. I got stuck for a bit in the beginning because I had some misspelling issues, and I labled a test spec wrong, so that was a little frustrating. I felt good through the first one for sure. The second one took a little playing around with rspec, but once I got that one, it helped 3 go by fairly quickly. 4 took me a minute for sure, and it probably is using more ruby than it's supposed to, but hey, done is better than perfect is what I keep hearing!
+
 # Hogwarts Again
 
 ## Setup instructions:
